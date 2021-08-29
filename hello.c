@@ -13,6 +13,8 @@ int main(int argc, char **argv) {
 
   printf("Neerav Chenga Reddy\n");
   printf("Computer Engineering\n");
+  printf("Zach Ehlers!\n");
+  printf("Computer Science\n")
 
   return 0;
 }
